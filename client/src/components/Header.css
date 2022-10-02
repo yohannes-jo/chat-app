@@ -1,0 +1,19 @@
+.navbar {
+  align-items: center;
+  background-color: aquamarine;
+  display: flex;
+  padding: 10px;
+}
+
+.navitems {
+  display: flex;
+}
+
+.navitems li {
+  list-style: none;
+  padding: 5px;
+}
+
+a:hover, a:visited, a:link, a:active {
+  text-decoration: none;
+}

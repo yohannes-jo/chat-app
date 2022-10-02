@@ -1,0 +1,16 @@
+.SendText{
+  text-align: center;
+  background-color: rgb(193, 255, 255);
+  padding: 20px;
+}
+
+.InputField {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+textarea {
+  resize: none;
+}

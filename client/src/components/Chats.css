@@ -1,0 +1,15 @@
+.Chats {
+  background-color: rgb(193, 255, 255);
+  padding: 20px;
+  text-align: center;
+}
+
+.chats-table {
+  width: 100%;
+}
+
+td {
+  border: 2px solid black;
+  table-layout: fixed;
+  padding: 15px;
+}

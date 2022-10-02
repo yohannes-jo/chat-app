@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+}
+
+.navitems {
+  display: flex;
+}
+
+.navitems li {
+  list-style: none;
+  padding: 5px;
+}
+
+a:hover, a:visited, a {
+  text-decoration: none;
+}
